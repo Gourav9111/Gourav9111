@@ -20,8 +20,8 @@
 🚀 About Me
 
 currently: Learning & Exploring Cybersecurity
-location: [Bhopal]
-education: [SAGE University], 4th Year
+location: Bhopal
+education: SAGE University
 skills:
   - Python
   - HTML
@@ -33,8 +33,6 @@ skills:
   - API pentesting
   - OSINT Master
   
-
-  .
 
 
 
@@ -72,7 +70,8 @@ skills:
   <img src="https://profile-counter.glitch.me/GOURAV9111/count.svg?" alt="Profile views" />
 </div>
 <div align="center">
-  <a href="https://www.paypal.com/paypalme/6263811078" target="_blank">
+  <a href="upi://pay?pa=rajput911@paytm&pn=GAURAV SINGH RAJPUT&am=143&cu=INR
+" target="_blank">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="400" />
   </a>
 </div>
