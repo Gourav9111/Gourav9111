@@ -70,8 +70,7 @@ skills:
   <img src="https://profile-counter.glitch.me/GOURAV9111/count.svg?" alt="Profile views" />
 </div>
 <div align="center">
-  <a href="upi://pay?pa=rajput911@paytm&pn=GAURAV SINGH RAJPUT&am=143&cu=INR
-" target="_blank">
+  <a href="upi://pay?pa=rajput911@paytm&pn=GAURAV SINGH RAJPUT&am=143&cu=INR" target="_blank">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="400" />
   </a>
 </div>
